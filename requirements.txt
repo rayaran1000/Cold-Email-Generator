@@ -1,0 +1,16 @@
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+langserve
+fastapi
+bs4
+pypdf
+chromadb
+groq
+langchain-groq
+langchainhub
+langchain-objectbox
+langchain
+pymongo
+faiss-cpu
